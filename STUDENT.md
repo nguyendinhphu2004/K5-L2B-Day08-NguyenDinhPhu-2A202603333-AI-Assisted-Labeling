@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2B
 - Tài khoản GitHub: https://github.com/nguyendinhphu2004
 - Repo bài nộp (URL): https://github.com/nguyendinhphu2004/K5-L2B-Day08-NguyenDinhPhu-2A202603333-AI-Assisted-Labeling
-- Commit chốt bài (hash):
+- Commit chốt bài (hash): e300ae9
 - Máy: Windows 10, 16 GB RAM, GPU NVIDIA RTX 3050 Laptop 4 GB nhưng chạy model bằng **CPU** (torch bản CPU, không dùng CUDA)
 - CVAT (Docker): v2.81.0 (Docker Desktop + WSL2, Nuclio 1.16.3 cho AI Tools)
 
