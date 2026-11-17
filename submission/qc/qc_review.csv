@@ -1,0 +1,9 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,khong,NguyenDinhPhu+AI,"Vòng 2: ảnh không đổi so với vòng 1, vẫn đúng (ca can_review xe kéo chở rau = three_wheeler)"
+img_005.jpg,,khong,NguyenDinhPhu+AI,"Xe máy dày: người lái và xe tách box; xe ở xa nhỏ. Hạn chế: 32 vật chen chúc, chỉ soi ở độ phân giải ảnh gốc. #37 xe van vàng gán truck chưa chắc (truck hay car), không tính lỗi"
+img_009.jpg,,khong,NguyenDinhPhu+AI,"Box xe máy chở rau #104 không gồm hàng nhô ra (đúng 4.1.5); xe đạp, xe tay ga, người bán hàng có box"
+img_018.jpg,178,sai_lop,NguyenDinhPhu+AI,Xe khách nhỏ (minibus) gán three_wheeler; guideline: minibus chở khách là bus. Lỗi box thừa của YOLOE
+img_025.jpg,,khong,NguyenDinhPhu+AI,Người trong vùng tối đã thêm khi Rework có box; các người và xe còn lại đúng
+img_035.jpg,,bo_sot,NguyenDinhPhu+AI,"Xe tay ga thứ hai đỗ ngay sau xe #454 (~x688-722, y472-527, cao ~50 px) không có box"
+img_035.jpg,,bo_sot,NguyenDinhPhu+AI,"Xe tay ga trắng đỗ phía sau (~x730-750, y455-478, cao ~23 px) không có box"
+img_035.jpg,,bo_sot,NguyenDinhPhu+AI,"Cụm xe máy đỗ bên phải phía sau xe xích lô (~x805-880, y440-478, cao ~30 px) không có box cũng không có ignore_region"

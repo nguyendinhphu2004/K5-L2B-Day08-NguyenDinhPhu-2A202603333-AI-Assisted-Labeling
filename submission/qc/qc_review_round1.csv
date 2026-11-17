@@ -1,0 +1,12 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,khong,NguyenDinhPhu+AI,"Ca can_review: xe kéo chở rau có mái gán three_wheeler (#16), box khít; người trên xe (#3, #10, #1) và người phía sau có box riêng"
+img_004.jpg,,khong,NguyenDinhPhu+AI,"Đủ 4 tuk-tuk (#25, #26, #27, #32) và 3 người; box khít"
+img_008.jpg,102,sai_vi_tri_kich_thuoc,NguyenDinhPhu+AI,Box xe chuối lỗi: cạnh phải vượt ~160 px sang xe đẩy giữa
+img_008.jpg,99,sai_vi_tri_kich_thuoc,NguyenDinhPhu+AI,Box xe dưa hấu giữa: cạnh phải vượt ~170 px sang xe thứ ba
+img_008.jpg,96,sai_vi_tri_kich_thuoc,NguyenDinhPhu+AI,"Box xe thứ ba lệch trái: bắt đầu từ giữa xe dưa hấu, không ôm hết mép phải xe"
+img_014.jpg,,khong,NguyenDinhPhu+AI,"Người gánh hàng, xe máy chạy và đỗ có box; xe máy cắt mép dưới phải kéo tới mép"
+img_017.jpg,,khong,NguyenDinhPhu+AI,3 tuk-tuk và 2 khách du lịch có box khít
+img_033.jpg,420,sai_lop,NguyenDinhPhu+AI,"Box nằm trên người áo hồng đang đạp xe đạp #415: phải là person, đang gán motorbike"
+img_033.jpg,,bo_sot,NguyenDinhPhu+AI,"Xe máy đỏ trắng đỗ cạnh người #412 (~x300-330, y470-512, cao ~40 px) không có box"
+img_033.jpg,,bo_sot,NguyenDinhPhu+AI,"Xe máy đen đỗ bên cạnh (~x330-359, y467-500, cao ~33 px) không có box"
+img_033.jpg,,bo_sot,NguyenDinhPhu+AI,"Xe máy đỗ trong bóng tối gần cửa hàng (~x410-435, y467-492, cao ~25 px) không có box"

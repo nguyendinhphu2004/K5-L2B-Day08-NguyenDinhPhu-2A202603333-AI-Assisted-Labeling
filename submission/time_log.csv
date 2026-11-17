@@ -1,1 +1,3 @@
 step,images,minutes,note
+gold_manual,4,54.6,"Gán tay hoàn toàn trên CVAT (task gold-manual, job 19); số phút là working_time CVAT tự ghi (tổng sự kiện send:working_time), 13.7 phút/ảnh"
+batch_review,24,75.3,"Duyệt pre-label có 12 bẫy trên CVAT (task batch-review, job 20); working_time CVAT tự ghi, 3.1 phút/ảnh; không gồm thời gian chạy script"
